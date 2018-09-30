@@ -1,0 +1,29 @@
+a,p,h1,h2 {font-family:calibri;}
+	a,p,h2 {color: rgb(255, 4, 60);}
+
+	
+.list { 
+  
+  color: rgb(255, 4, 60);
+  padding: 15px;
+}
+.hnchnbild{
+	padding-right: 20px;
+}
+.u-b{ 
+	padding-right: 30px;
+}
+	body{background-color:#111 }
+h2{
+	font-size: 30px;
+}
+
+h1{
+
+  color: #19FF05;
+ padding: 10px;
+}
+
+li p,li a,hs { font-size: 20px;
+			color: rgb(221, 221, 221); }
+
